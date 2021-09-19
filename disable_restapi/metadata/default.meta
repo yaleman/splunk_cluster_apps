@@ -1,0 +1,4 @@
+# This makes all of the objects in an app globally accessible to all apps
+[]
+access = read : [ * ], write : [ admin ]
+export = system
